@@ -8,3 +8,7 @@ function upperCaseCustomerName(name) {
 
   return firstLetter + restOfName;
 }
+
+function setBestCustomer() {
+  var bestCustomer = "not bob";
+}

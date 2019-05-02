@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-var customerName = "Erin";
+var customerName = "bob";
 
 function upperCaseCustomerName(name) {
   let firstLetter = customerName.charAt(0).toUpperCase()

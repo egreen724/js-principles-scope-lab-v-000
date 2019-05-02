@@ -3,10 +3,7 @@
 var customerName = "bob";
 
 function upperCaseCustomerName(name) {
-  let firstLetter = customerName.charAt(0).toUpperCase()
-  let restOfName = customerName.slice(1)
-
-  return firstLetter + restOfName;
+  customerName.toUpperCase();
 }
 
 function setBestCustomer() {
